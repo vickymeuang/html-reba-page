@@ -1,0 +1,25 @@
+
+
+#header-home-workplace {
+  color: blue;
+  font-size: 20px;
+  text-align: center;
+  font-family: 'Dancing Script', cursive;;
+}
+#home-mid-paragraph {
+  text-align: center;
+}
+body {
+    font-family: Arial, sans-serif;
+}
+html {
+  font-family: 'Dancing Script', cursive;
+}
+
+.list-header {
+  color: red;
+}
+
+
+
+
